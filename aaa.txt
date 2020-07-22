@@ -2,6 +2,12 @@
 22222222222
 333333333333
 44444444444444444
+<<<<<<< .mine
 555555555555555555555
 aaaaaaaaaaaa
 cccccccccccc
+=======
+555555555555555555555
+aaaaaaaaaaaaaaa
+bbbbbbbbbbbbb
+>>>>>>> .theirs
